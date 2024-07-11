@@ -1,3 +1,7 @@
+## 1.0.0+2
+
+* docs: fix example
+
 ## 1.0.0+1
 
 * docs: fix README header

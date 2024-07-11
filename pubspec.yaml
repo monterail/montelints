@@ -1,0 +1,12 @@
+name: montelints
+description: "Sane lint defaults for your Flutter project, to focus on actual engineering challenges."
+version: 1.0.0
+repository: https://github.com/monterail/montelints
+topics:
+  - lints
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
